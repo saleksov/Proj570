@@ -1,5 +1,5 @@
 # 570_Checkpoint3
-> *Those who know, know*
+The paper is in the files above titled Paper.pdf
 
 This repository contains the full implementation for **Checkpoint 3** of the ECE570 course project. The code builds upon the work of Zhu et al.'s *Denoising Diffusion Models for Plug-and-Play Image Restoration* and adapts it for the novel task of **illumination enhancement** using conditional diffusion.
 
